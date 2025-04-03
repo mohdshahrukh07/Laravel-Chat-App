@@ -1,0 +1,16 @@
+
+
+[1;37;40mCode Coverage Report:    [0m
+[1;37;40m  2025-02-25 07:34:56    [0m
+[1;37;40m                         [0m
+[1;37;40m Summary:                [0m
+[37;41m  Classes:  3.70% (1/27) [0m
+[37;41m  Methods:  6.25% (4/64) [0m
+[37;41m  Lines:    1.78% (7/394)[0m
+
+App\Models\Group
+  [37;41mMethods:  16.67% ( 1/ 6)[0m   [37;41mLines:   3.57% (  1/ 28)[0m
+App\Models\User
+  [37;41mMethods:  25.00% ( 1/ 4)[0m   [37;41mLines:  11.43% (  4/ 35)[0m
+App\Providers\AppServiceProvider
+  [30;42mMethods: 100.00% ( 2/ 2)[0m   [30;42mLines: 100.00% (  2/  2)[0m
